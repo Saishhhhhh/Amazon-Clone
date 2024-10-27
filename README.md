@@ -30,3 +30,10 @@ To view this project locally, follow these steps:
    Open the index.html file in your preferred web browser.
 
 Screenshots
+
+## Screenshots
+
+![Screenshot of the Webpage](Screenshot1.png)  
+
+![Screenshot of the Webpage](Screenshot2.png)
+
