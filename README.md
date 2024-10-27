@@ -23,6 +23,7 @@ To view this project locally, follow these steps:
    git clone https://github.com/Saishhhhhh/Amazon-Clone.git
    
 2. **Navigate to the Project Directory: Change to the project directory using:**
+   ```bash
    cd Amazon-Clone
 
 3. **Open the Project:**
