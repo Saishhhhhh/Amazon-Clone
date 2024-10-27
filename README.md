@@ -29,8 +29,6 @@ To view this project locally, follow these steps:
 3. **Open the Project:**
    Open the index.html file in your preferred web browser.
 
-Screenshots
-
 ## Screenshots
 
 ![Screenshot of the Webpage](Screenshot1.png)  
